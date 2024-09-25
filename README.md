@@ -1,1 +1,1 @@
-# circular-doubly-linked-list
+This repository contains a Python implementation of a Circular Doubly Linked List (CDSLL). A circular doubly linked list is a data structure where each node has two pointers: one pointing to the next node and one pointing to the previous node. The last node's next pointer points to the first node, and the first node's prev pointer points to the last node, forming a circular connection.
